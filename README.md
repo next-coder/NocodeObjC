@@ -19,6 +19,7 @@ NocodeObjC是一个ObjC低代码平台，包含了ObjC开发中常用的开源�
 * [UI](#UI)
   * [Autolayout——Masonry](#Masonry)
   * [菊花——MBProgressHUD](#MBProgressHUD)
+  * [菊花——SVProgressHUD](#SVProgressHUD)
   * [键盘——IQKeyboardManager](#IQKeyboardManager)
   * [YYKit](#YYKit)
 
@@ -45,6 +46,9 @@ NocodeObjC是一个ObjC低代码平台，包含了ObjC开发中常用的开源�
 
 * [响应式编程](#Reactive)
   * [ReactiveCocoa](#ReactiveCocoa)
+
+* [App内调试](#debug)
+  * [FLEX](#FLEX)
 
 ## <span id="packagemanager">包管理工具</span>
 
@@ -97,6 +101,12 @@ https://github.com/SnapKit/Masonry
 菊花神器。请参考：
 
 https://github.com/jdg/MBProgressHUD
+
+### <span id="SVProgressHUD">SVProgressHUD</span>
+
+有一个菊花。请参考：
+
+https://github.com/SVProgressHUD/SVProgressHUD
 
 ### <span id="IQKeyboardManager">IQKeyboardManager</span>
 
@@ -195,3 +205,11 @@ https://open.weibo.com/
 ObjC响应式编程。请参考：
 
 https://github.com/ReactiveCocoa/ReactiveCocoa
+
+## <span id="debug">App内调试</span>
+
+### <span id="FLEX">FLEX</span>
+
+App内调试工具。请参考：
+
+https://github.com/FLEXTool/FLEX
