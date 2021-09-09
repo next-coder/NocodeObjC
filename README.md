@@ -21,6 +21,7 @@ NocodeObjC是一个ObjC低代码平台，包含了ObjC开发中常用的开源�
 
 * [Image](#Image)
   * [GIF——FLAnimatedImage](#FLAnimatedImage)
+  * [缓存——SDWebImage](#SDWebImage)
 
 * [加解密](#crypto)
 
@@ -88,6 +89,12 @@ https://github.com/SnapKit/Masonry
 处理GIF的图片库。请参考：
  
 https://github.com/Flipboard/FLAnimatedImage
+
+### <span id="SDWebImage">SDWebImage</span>
+
+图片缓存框架。请参考：
+
+https://github.com/SDWebImage/SDWebImage
 
 ## <span id="crypto">加解密</span>
 
