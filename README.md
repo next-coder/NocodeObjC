@@ -16,6 +16,22 @@ NocodeObjC是一个ObjC低代码平台，包含了ObjC开发中常用的开源�
 * [日志](#logging)
   * [CocoaLumberjack](#CocoaLumberjack)
 
+* [UI](#UI)
+  * [Autolayout——Masonry](#Masonry)
+
+* [加解密](#crypto)
+
+* [Model层](#modeling)
+ * [Mantle](#Mantle)
+ * [MJExtension](#MJExtension)
+
+* [社交分享](#socialmedia)
+ * [facebook](#facebook)
+ * [微信](#wechat)
+ * [QQ](#QQ)
+ * [腾讯开放平台](#tencent)
+ * [微博](#weibo)
+
 ## <span id="packagemanager">包管理工具</span>
 
 ### <span id="cocoapods">cocoapods</span>
@@ -53,3 +69,59 @@ https://github.com/facebookincubator/SocketRocket
 苹果平台上简易快速的日志库。请参考：
 
 https://github.com/CocoaLumberjack/CocoaLumberjack
+
+## <span id="UI">UI</span>
+
+### <span id="Masonry">Masonry</span>
+
+Autolayout的简化易用库。请参考：
+
+https://github.com/SnapKit/Masonry
+
+## <span id="crypto">加解密</span>
+
+## <span id="modeling">Model层</span>
+
+### <span id="Mantle">Mantle</span>
+
+Mantle是处理Model简单易用工具。请参考：
+
+https://github.com/Mantle/Mantle
+
+### <span id="MJExtension">MJExtension</span>
+
+字典、字典数组、json、对象相互转化的工具。请参考：
+
+https://github.com/CoderMJLee/MJExtension
+
+## <span id="socialmedia">社交分享</span>
+
+### <span id="facebook">facebook</span>
+
+facebook ios SDK。请参考：
+
+https://github.com/facebook/facebook-ios-sdk
+
+### <span id="wechat">微信</span>
+
+微信登录、分享、支付等等，微信开放平台。请参考：
+
+https://open.weixin.qq.com/
+
+## <span id="QQ">QQ</span>
+
+qq登录、分享等等，qq互联平台。请参考：
+
+https://connect.qq.com/
+
+## <span id="tencent">腾讯开放平台</span>
+
+腾讯系所有应用开放平台，包括微信、qq、qq空间、应用宝、AI等。请参考：
+
+https://open.tencent.com/
+
+## <span id="weibo">微博</span>
+
+微博登录、分享等等，微博开放平台。请参考：
+
+https://open.weibo.com/
