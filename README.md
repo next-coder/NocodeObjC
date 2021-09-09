@@ -19,18 +19,21 @@ NocodeObjC是一个ObjC低代码平台，包含了ObjC开发中常用的开源�
 * [UI](#UI)
   * [Autolayout——Masonry](#Masonry)
 
+* [Image](#Image)
+  * [GIF——FLAnimatedImage](#FLAnimatedImage)
+
 * [加解密](#crypto)
 
 * [Model层](#modeling)
- * [Mantle](#Mantle)
- * [MJExtension](#MJExtension)
+  * [Mantle](#Mantle)
+  * [MJExtension](#MJExtension)
 
 * [社交分享](#socialmedia)
- * [facebook](#facebook)
- * [微信](#wechat)
- * [QQ](#QQ)
- * [腾讯开放平台](#tencent)
- * [微博](#weibo)
+  * [facebook](#facebook)
+  * [微信](#wechat)
+  * [QQ](#QQ)
+  * [腾讯开放平台](#tencent)
+  * [微博](#weibo)
 
 ## <span id="packagemanager">包管理工具</span>
 
@@ -78,6 +81,14 @@ Autolayout的简化易用库。请参考：
 
 https://github.com/SnapKit/Masonry
 
+## <span id="Image">Image</span>
+
+### <span id="FLAnimatedImage">FLAnimatedImage</span>
+
+处理GIF的图片库。请参考：
+ 
+https://github.com/Flipboard/FLAnimatedImage
+
 ## <span id="crypto">加解密</span>
 
 ## <span id="modeling">Model层</span>
@@ -108,19 +119,19 @@ https://github.com/facebook/facebook-ios-sdk
 
 https://open.weixin.qq.com/
 
-## <span id="QQ">QQ</span>
+### <span id="QQ">QQ</span>
 
 qq登录、分享等等，qq互联平台。请参考：
 
 https://connect.qq.com/
 
-## <span id="tencent">腾讯开放平台</span>
+### <span id="tencent">腾讯开放平台</span>
 
 腾讯系所有应用开放平台，包括微信、qq、qq空间、应用宝、AI等。请参考：
 
 https://open.tencent.com/
 
-## <span id="weibo">微博</span>
+### <span id="weibo">微博</span>
 
 微博登录、分享等等，微博开放平台。请参考：
 
