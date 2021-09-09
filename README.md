@@ -23,6 +23,7 @@ NocodeObjC是一个ObjC低代码平台，包含了ObjC开发中常用的开源�
   * [键盘——IQKeyboardManager](#IQKeyboardManager)
   * [YYKit](#YYKit)
   * [WebViewJavascriptBridge](#WebViewJavascriptBridge)
+  * [图表——PNChart](#PNChart)
 
 * [Image](#Image)
   * [GIF——FLAnimatedImage](#FLAnimatedImage)
@@ -31,6 +32,7 @@ NocodeObjC是一个ObjC低代码平台，包含了ObjC开发中常用的开源�
 * [UITableView/UICollectionView](#tablecollection)
   * [空列表——DZNEmptyDataSet](#DZNEmptyDataSet)
   * [IGListKit](#IGListKit)
+  * [FDTemplateLayoutCell](#FDTemplateLayoutCell)
 
 * [加解密](#crypto)
 
@@ -133,6 +135,12 @@ WebView的js桥。请参考：
 
 https://github.com/marcuswestin/WebViewJavascriptBridge
 
+### <span id="PNChart">PNChart</span>
+
+图表库。请参考：
+
+https://github.com/kevinzhow/PNChart
+
 ## <span id="Image">Image</span>
 
 ### <span id="FLAnimatedImage">FLAnimatedImage</span>
@@ -160,6 +168,12 @@ https://github.com/dzenbot/DZNEmptyDataSet
 数据驱动的CollectionView。请参考：
 
 https://github.com/Instagram/IGListKit
+
+### <span id="FDTemplateLayoutCell">FDTemplateLayoutCell</span>
+
+自动布局TableViewCell，动态计算高度。请参考：
+
+https://github.com/forkingdog/UITableView-FDTemplateLayoutCell
 
 ## <span id="crypto">加解密</span>
 
